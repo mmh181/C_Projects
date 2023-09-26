@@ -1,6 +1,6 @@
 # Simple Memory Allocator in C
 
-This repository contains a simple memory allocator implemented in C. The memory allocator provides basic functionality similar to the standard `malloc`, `calloc`, `realloc`, and `free` functions.
+This folder contains a simple memory allocator implemented in C. The memory allocator provides basic functionality similar to the standard `malloc`, `calloc`, `realloc`, and `free` functions.
 
 ## Overview
 
